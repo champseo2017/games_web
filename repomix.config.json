@@ -1,0 +1,28 @@
+{
+    "output": {
+        "style": "xml",
+        "filePath": "repomix-output.xml",
+        "showLineNumbers": true,
+        "removeEmptyLines": true,
+        "topFilesLength": 10,
+        "instructionFilePath": "repomix-instruction.md"
+    },
+    "ignore": {
+        "useGitignore": true,
+        "useDefaultPatterns": true,
+        "customPatterns": [
+            "**/*.lock",
+            "**/dist/**",
+            "**/build/**",
+            "**/coverage/**",
+            "**/*.log",
+            "**/*.svg",
+            "**/assets/**",
+            "**/*.test.ts",
+            "**/public/**"
+        ]
+    },
+    "security": {
+        "enableSecurityCheck": true
+    }
+}
