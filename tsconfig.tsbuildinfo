@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/game/environment.tsx","./src/components/game/gamecanvas.tsx","./src/config/gameconfig.ts","./src/config/themeconfig.ts","./src/hooks/usegameloop.ts","./src/stores/usegamestore.ts","./src/utils/cn.ts","./src/utils/time.ts"],"version":"5.9.3"}
